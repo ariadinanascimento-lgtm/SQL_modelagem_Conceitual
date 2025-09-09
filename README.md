@@ -10,11 +10,18 @@ O desafio consistiu em criar um esquema conceitual de banco de dados do zero, a 
 
 A oficina mecânica gerencia o fluxo de veículos que chegam para consertos ou revisões. Cada veículo é atribuído a uma equipe de mecânicos que, após diagnóstico, preenche uma Ordem de Serviço (OS), definindo a data de entrega. O valor total da OS é calculado com base em uma tabela de referência de mão de obra e no valor das peças utilizadas. É necessária a autorização do cliente para a execução dos serviços. Os mecânicos possuem informações como código, nome, endereço e especialidade. Uma OS inclui número, data de emissão, valor total, status e data de conclusão.
 
-⚙️ **Ferramenta de Modelagem**
+🛠️ **Ferramenta utilizada**
 
-MySQL Workbench 8.0: Ferramenta utilizada para a criação do Diagrama Entidade-Relacionamento (DER).
+MySQL Workbench 8.0 (diagrama ER)
 
-Link para download do MySQL Workbench
+Link para download: https://www.mysql.com/products/workbench/
+
+## 📊 Diagramas do Projeto
+
+### Modelo Conceitual Inicial
+![Modelo Conceitual Inicial](IMAGENS/Projeto_Conceitual_E-commerce_1.png
+)
+
 
 
 💡 **Justificativas e Decisões de Modelagem**
