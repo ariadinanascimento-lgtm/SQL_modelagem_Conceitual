@@ -16,10 +16,10 @@ MySQL Workbench 8.0 (diagrama ER)
 
 Link para download: https://www.mysql.com/products/workbench/
 
-## 📊 Diagramas do Projeto
+## 📊 Diagrama do Projeto
 
-### Modelo Conceitual Inicial
-![Modelo Conceitual Inicial](IMAGENS/Projeto_Conceitual_E-commerce_1.png
+### Modelo Conceitual 
+![Modelo Conceitual ](Imagens/modeleagem_conceitual_bd_oficina.png
 )
 
 
